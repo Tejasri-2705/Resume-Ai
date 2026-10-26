@@ -173,7 +173,6 @@ Keep the API key private and do not commit it to the repository.
 - Multiple resume comparison.
 - Resume improvement suggestions based on specific job roles.
 - Downloadable PDF reports.
+<img width="1497" height="842" alt="image" src="https://github.com/user-attachments/assets/f0e9e7c8-fae1-4240-b95b-e4ce63e2c863" />
 
-## Author
 
-Developed as a Python and Generative AI project demonstrating resume analysis, API integration, and web application development.
