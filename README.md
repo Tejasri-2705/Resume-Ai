@@ -175,4 +175,5 @@ Keep the API key private and do not commit it to the repository.
 - Downloadable PDF reports.
 <img width="1497" height="842" alt="image" src="https://github.com/user-attachments/assets/f0e9e7c8-fae1-4240-b95b-e4ce63e2c863" />
 
+<img width="1341" height="817" alt="image" src="https://github.com/user-attachments/assets/1a926b12-51b7-411c-9bda-56ac5aa1e3e0" />
 
